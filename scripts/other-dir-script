@@ -1,0 +1,4 @@
+#!/usr/bin/env perl
+
+print "Hello from Perl script in different directory from bash script\n"
+
